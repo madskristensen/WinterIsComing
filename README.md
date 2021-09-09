@@ -9,7 +9,7 @@ or try the
 
 ---------------------------------------
 
-A dark theme based on the popular [Winter is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) theme for VS Code. This theme was created in coorporation with the original author of the theme, [John Papa](https://twitter.com/John_Papa).
+A dark theme based on the popular [Winter is Coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming) theme for VS Code. This theme was created in cooperation with the original author of the theme, [John Papa](https://twitter.com/John_Papa).
 
 ![Winter is Coming](art/screenshot.png)
 
