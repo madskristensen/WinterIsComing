@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="7fa839e2-b938-4b1c-9277-edaebe6fdeb5" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
+        <DisplayName>Winter Is Coming</DisplayName>
+        <Description xml:space="preserve">A dark theme based on the popular Winter is Coming theme for VS Code by John Papa</Description>
+        <MoreInfo>https://github.com/madskristensen/DarkTheme2019</MoreInfo>
+        <License>Resources\LICENSE</License>
+        <Icon>Resources\icon.png</Icon>
+        <PreviewImage>Resources\icon.png</PreviewImage>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+    </Installation>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Theme.pkgdef" />
+    </Assets>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+</PackageManifest>
