@@ -1,6 +1,6 @@
 # Winter Is Coming
 
-[![Build status](https://ci.appveyor.com/api/projects/status/whlu4aasgq8gj262?svg=true)](https://ci.appveyor.com/project/madskristensen/darktheme2019)
+[![Build status](https://ci.appveyor.com/api/projects/status/91tfb5od8f39gui1?svg=true)](https://ci.appveyor.com/project/madskristensen/winteriscoming)
 
 Download the extension at the
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WinterIsComing)
@@ -13,7 +13,7 @@ A dark theme based on the popular [Winter is Coming](https://marketplace.visuals
 
 ![Winter is Coming](art/screenshot.png)
 
-After installing the extension, the **Dark (2019)** theme becomes available in the dropdown under *Tools -> Themes*.
+After installing the extension, the **Winter is Coming** theme becomes available in the dropdown under *Tools -> Themes*.
 
 ![Options dialog](art/options.png)
 
