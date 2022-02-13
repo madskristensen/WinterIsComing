@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Winter is Coming")]
-[assembly: AssemblyDescription("Winter is Coming Visual Studio 2022 theme")]
+[assembly: AssemblyDescription("Winter is Coming theme for Visual Studio 2022")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Winter is Coming")]

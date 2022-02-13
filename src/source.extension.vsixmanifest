@@ -5,7 +5,7 @@
         <DisplayName>Winter is Coming</DisplayName>
         <Description xml:space="preserve">A dark theme based on the popular Winter is Coming theme for VS Code. This theme was created in cooperation with the original author of the theme, John Papa.</Description>
         <MoreInfo>https://github.com/madskristensen/WinterIsComing</MoreInfo>
-        <License>Resources\LICENSE</License>
+        <License>LICENSE.txt</License>
         <Icon>Resources\icon.png</Icon>
         <PreviewImage>Resources\icon.png</PreviewImage>
         <Tags>theme</Tags>
