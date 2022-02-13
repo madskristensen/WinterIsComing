@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="WinterIsComing.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0.4" Language="en-US" Publisher="j" />
+        <Identity Id="WinterIsComing.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0.4" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>Winter is Coming</DisplayName>
         <Description xml:space="preserve">A dark theme based on the popular Winter is Coming theme for VS Code. This theme was created in cooperation with the original author of the theme, John Papa.</Description>
         <MoreInfo>https://github.com/madskristensen/WinterIsComing</MoreInfo>
