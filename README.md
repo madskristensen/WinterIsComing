@@ -17,7 +17,7 @@ After installing the extension, the **Winter is Coming** theme becomes available
 
 ![Options dialog](art/options.png)
 
-## Version 1.0.1
+## Version 1.0.4
 - replace original project with VSTheme Project which requires the extension Visual Studio Color Theme Designer 2022
 - update selected Nuget item colors (CommonDocumnet -> ListItemTextSelected, ListItemBackgroundHover, ListItemTextUnfocused)
 - update background and text colors for selected, inactive tab (Document Well -> Tab -> Selected, inactive)
