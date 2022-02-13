@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="WinterIsComingTheme (6)" GUID="{cdd4b4e9-1505-4c54-9ca9-37b2cd8a46ce}" BaseGUID="{d06e164f-fc85-41de-832e-2c5819c4b31b}">
+  <Theme Name="Winter is Coming" GUID="{403a24fd-f19a-4363-b42b-2f153837bf6f}" BaseGUID="{d06e164f-fc85-41de-832e-2c5819c4b31b}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF011627" />
@@ -4384,7 +4384,7 @@
       </Color>
       <Color Name="InfoBarBackground">
         <Background Type="CT_RAW" Source="FFFEFCC8" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF122D42" />
       </Color>
       <Color Name="Hyperlink">
         <Foreground Type="CT_RAW" Source="FF3794FF" />

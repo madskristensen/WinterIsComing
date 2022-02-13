@@ -22,6 +22,7 @@ After installing the extension, the **Winter is Coming** theme becomes available
 - update selected Nuget item colors (CommonDocumnet -> ListItemTextSelected, ListItemBackgroundHover, ListItemTextUnfocused)
 - update background and text colors for selected, inactive tab (Document Well -> Tab -> Selected, inactive)
 - remove empty environment background gradient by matching middle and end colors (Environment -> EnvironmentBackgroundGradientBegin)
+- update foreground color for Git notification (InfoBar -> InfoBarBackground)
 
 ## License
 [Apache 2.0](LICENSE)
